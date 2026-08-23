@@ -8,7 +8,7 @@
 `15个诊断公式` · `10棵决策树` · `10问诊协议` · `273条关键词索引` · `10则医案` · `11部医书全文` · `2326条全文行号索引` · `周易·道德经跨经典内化`
 
 [![GitHub Stars](https://img.shields.io/github/stars/jangviktor-web/huangyuanyu?style=for-the-badge&color=yellow&label=Stars)](https://github.com/jangviktor-web/huangyuanyu/stargazers)
-[![版本](https://img.shields.io/badge/版本-v2.9.0-blue?style=for-the-badge)](https://github.com/jangviktor-web/huangyuanyu/releases)
+[![版本](https://img.shields.io/badge/版本-v4.0.0-blue?style=for-the-badge)](https://github.com/jangviktor-web/huangyuanyu/releases)
 [![License](https://img.shields.io/badge/协议-MulanPSL--2.0-green?style=for-the-badge)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Ready-orange?style=for-the-badge&logo=anthropic&logoColor=white)]()
 [![内容](https://img.shields.io/badge/内容-三书同源-purple?style=for-the-badge)](#核心知识体系)
@@ -278,7 +278,14 @@ huangyuanyu/
 ## 更新日志
 
 <details open>
-<summary><b>点击展开完整更新日志（v1.0 → v2.9）</b></summary>
+<summary><b>点击展开完整更新日志（v1.0 → v4.0）</b></summary>
+
+### v4.0.0（2026-08-22）🚀 表达还原度三件套 + 方剂卡片制
+- **表达还原度三件套**（V4.4 落地法，解决"内容正确但不像本人"）：前置表达速查卡（SKILL.md 第一屏 7 条）+ 回答工作流 Step 7「输出形态铁律」+ references/21-expression-style.md 完整范式总集（语气三件套量化指标/✅❌整段对照/问诊往返/调侃讽刺对象铁律/防模板复用纪律/方剂卡片规范）
+- **方剂卡片制（四行卡片）**：借鉴倪海厦 skill，出方从「单列出框」升级为四行卡片——`主方·XX汤（出处）｜清代剂量行（汉字「X钱」）｜今克换算行（阿拉伯「X.Xg」）｜煎服法行`；换算标准清代库平制（1两≈37.3g、1钱≈3.73g：三钱=11.2g/二钱=7.5g/一钱=3.7g）；剂量优先 match modules/04 原文检索，**检索不到只列药名并注明出处，禁编造**
+- **S11 20题长答盲评验证**：20 题覆盖失眠/胃胀/咳嗽/月经/便秘/头晕/水肿/痛经/历节等高频场景；最终版 vs 旧版 **D 胜 20 / B 胜 0 / 平 0**；四维总分（文言还原度/人物味道/临床故事感/总体像本人）**331 vs 181（+150，+83%）**；防模板复用专项五项全过（断言收束 9 类轮换/设问 7+ 框架/问诊追问句式 7+ 种零复读/声明段 20/20 措辞不同/开场 5 型轮换）
+- **索引 0 死链**：SKILL.md 全部 20 个文件路径引用有效 **0 死链**；modules/06 索引 2326 条目 0 不匹配（validate_index.py 全量校验）；黄芽汤剂量与《四圣心源》原文一致
+- **SKILL.md 695→723 行**：快速检索路由 + 调研来源表接入 21 文件；references/29-role-play-rules.md 与 full-body.md 同步输出形态铁律
 
 ### v2.9.0（2026-08-04）🚀 全文可溯源版
 - **全文行号索引体系**：新增 modules/06_yishu_11zhong_INDEX.md——11部著作书目总览+关键词速查45条+逐书篇目2326条，行号全量校验0错误，**每条引用可溯源**

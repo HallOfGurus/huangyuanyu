@@ -1,3 +1,5 @@
+# 通用工具（源自黄元御skill V2.9实战，沉淀入中医思维蒸馏器）
+# 使用：修改 SRC 路径与元数据为你的目标医师/原文；详情见 references/20-original-text-digitalization.md
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """清理 OCR 页码页眉残留：独立行页眉 / 句中【N】 / 慧解变体"""

@@ -1096,15 +1096,11 @@ $ ^{1} $ 姜，音 yǒu，姜里，古地名。
 
 六五（此段未抄录）
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//eaa20ac2-4492-4047-ab00-94d79e58b14d/markdown_3/imgs/img_in_image_box_473_660_525_709.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-03T08%3A53%3A25Z%2F-1%2F%2F63af5bd3e2fe610a594169a14ee58c3480bf3c3db6578df4edb114a5b2bf00c5" alt="Image" width="4%" />
 
-<div style="text-align: center;"><img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//eaa20ac2-4492-4047-ab00-94d79e58b14d/markdown_3/imgs/img_in_image_box_473_660_525_709.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-08-03T08%3A53%3A25Z%2F-1%2F%2F63af5bd3e2fe610a594169a14ee58c3480bf3c3db6578df4edb114a5b2bf00c5" alt="Image" width="4%" />
 
 目
 
-</div>
 
-</div>
 
 【原文】上六：敦临，吉无咎。
 

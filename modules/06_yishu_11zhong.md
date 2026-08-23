@@ -58,7 +58,6 @@
 
 
 
-http://ngotcm.com/forum/
 
 子
 
@@ -8122,7 +8121,6 @@ ii
 
 
 
-http://ngotcm.com/forum/
 
 ### 黄帝素问灵枢叙
 
@@ -11458,7 +11456,6 @@ iii
 
 
 
-http://ngotcm.com/forum/
 
 ### 难经悬解自序
 
@@ -12488,7 +12485,6 @@ TL
 
 
 
-http://ngotcm.com/forum/
 
 序
 
@@ -18819,7 +18815,6 @@ $ \underset{\cdot}{伤}\underset{\cdot}{寒} $悬解卷三
 
 
 
-http://ngotcm.com/forum/
 
 ### 金匮要略方论原序
 
@@ -21326,9 +21321,7 @@ iv
 
 此段见《伤寒·厥阴》。呕而脉弱，胃气之虚，小便复利，肾气之虚，肾司二便，寒则膀胱失约，故小便自利。里阳虚败，加以身有微热，而见厥逆者，阴盛于内而微阳外格，故为难治，宜四逆汤，以回里阳也。
 
-<img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//70524950-80a2-4679-9bf3-5893fad0a882/markdown_0/imgs/img_in_image_box_90_546_120_576.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-28T09%3A42%3A22Z%2F-1%2F%2F4af42bf337793ee0e58269a58becb754987cc02bef9f39aacad0bd6e21ef8d81" alt="Image" width="2%" />
 
-<img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//70524950-80a2-4679-9bf3-5893fad0a882/markdown_0/imgs/img_in_image_box_90_546_120_576.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-28T09%3A42%3A22Z%2F-1%2F%2F4af42bf337793ee0e58269a58becb754987cc02bef9f39aacad0bd6e21ef8d81" alt="Image" width="2%" />
 
 O
 
@@ -23064,9 +23057,7 @@ y
 
 木而息风，干姜温肝而暖血也。
 
-<img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//7dcb2fbb-d541-4146-91ec-43b64e951395/markdown_0/imgs/img_in_image_box_98_137_128_170.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-28T09%3A42%3A32Z%2F-1%2F%2F4ccbcf81ad462c9db8ad2dbf1a5952865721a823ab29fcaba838d13e85ab79a3" alt="Image" width="2%" />
 
-<img src="https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//7dcb2fbb-d541-4146-91ec-43b64e951395/markdown_0/imgs/img_in_image_box_98_137_128_170.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-07-28T09%3A42%3A32Z%2F-1%2F%2F4ccbcf81ad462c9db8ad2dbf1a5952865721a823ab29fcaba838d13e85ab79a3" alt="Image" width="2%" />
 
 O
 
@@ -24359,7 +24350,6 @@ O
 
 
 
-http://ngotcm.com/forum/
 
 清·黄元御·伤寒说意·序
 
@@ -26495,7 +26485,6 @@ DO
 
 
 
-http://ngotcm.com/forum/
 
 ### 四圣心源自叙
 
@@ -30023,7 +30012,6 @@ y se le com la 21.
 
 
 
-http://ngotcm.com/forum/
 
 ### 素灵微蕴序
 
@@ -30919,7 +30907,6 @@ A1
 
 
 
-http://ngotcm.com/forum/
 
 ### 四圣悬枢自叙
 
@@ -32881,7 +32868,6 @@ AS/3NT
 
 
 
-http://ngotcm.com/forum/
 
 ### 长沙药解自叙
 
@@ -35601,7 +35587,6 @@ i
 
 
 
-http://ngotcm.com/forum/
 
 ### 玉楸药解自叙
 
@@ -38235,7 +38220,7 @@ http://ngotcm.com/forum/
 
 ### 参与黄元御医书十一种整理、校对的网友
 
-初校、排版：泥巴匠(http://blog.sina.com.cn/arfanx)
+初校、排版：泥巴匠(
 
 《素问悬解》校对：风马牛鱼二校，万里天三校
 
